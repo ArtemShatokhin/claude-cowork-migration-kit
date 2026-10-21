@@ -43,6 +43,10 @@ Those seven lines are unedited from `packages/starter/templates/base/kortix.yaml
 
 Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. More at [kortix.com](https://kortix.com).
 
+## Starting this week, not next quarter
+
+[Using Cowork today](docs/using-cowork-today.md) runs the six-step checklist against a first week: inventory and export on days one and two, the install and the repository on days three and four, then one real job landed through a change request on day five. It ends with the file tree and the commit message that make up the record you are left holding.
+
 ## Reading on the same question
 
 - [Migrating from Claude Cowork](https://opensourceclaudecowork.com/migrate-from-claude-cowork) takes one recurring Cowork job and rebuilds it as files, in an order that loses nothing.
