@@ -52,6 +52,8 @@ Kortix is the open-source AI Operating System: your agents, their skills, your c
 - [Migrating from Claude Cowork](https://opensourceclaudecowork.com/migrate-from-claude-cowork) takes one recurring Cowork job and rebuilds it as files, in an order that loses nothing.
 - [What happened to Claude Cowork](https://opensourceclaudecowork.com/what-happened-to-claude-cowork) covers the merge itself, the rollout waves and what a team keeps afterwards.
 - [Self-hosting the replacement](https://opensourceclaudecowork.com/self-hosting) takes a bare Linux server to a running stack and plans the review gate around it.
+- [How to use Claude Cowork](https://opensourceclaudecowork.com/how-to-use-claude-cowork) walks the setup steps after the merge, and where the open-source line falls.
+- [Self-hosted Claude Code](https://opensourceclaudecowork.com/self-hosted-claude-code) asks the same control-plane question about the coding harness.
 
 ## What this kit leaves out
 
